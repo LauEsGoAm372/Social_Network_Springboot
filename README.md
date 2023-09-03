@@ -1,6 +1,7 @@
 # Social_Network_Springboot
 
 Development of a social network for athletes. This application was developed with the Springboot Framework, spring security and JWT generation are used to guarantee its security. The Xampp database manager is also used and an ORM is implemented to give better management to the database thanks to springboot.
+Java, Javascript, html and css will be handled.
 
 # **Execution**
 
