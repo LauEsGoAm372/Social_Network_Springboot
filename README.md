@@ -14,6 +14,8 @@ Development of a social network for athletes. This application was developed wit
 *Now you can enjoy this simulation of a social network for athletes without having to mess with the code, let alone the database.
 
 ## **Evidence**
+<img width="897" alt="image" src="https://github.com/LauEsGoAm372/Social_Network_Springboot/assets/110053206/433d8145-ed7f-4d53-ab95-43a94ac3d12d">
+
 <img width="878" alt="image" src="https://github.com/LauEsGoAm372/Social_Network_Springboot/assets/110053206/c5303805-c387-4630-a866-6786faa6a299">
 
 <img width="911" alt="image" src="https://github.com/LauEsGoAm372/Social_Network_Springboot/assets/110053206/677c0d3e-aaa3-4c05-bcfa-48a91a1bde89">
